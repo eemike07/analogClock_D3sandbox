@@ -1,0 +1,16 @@
+.hour-label{
+    font-size: 24px;
+}
+
+.hour-tick{
+    stroke-width: 5;
+    fill: black;
+}
+
+.digitalTime{
+    font-size: 32px;
+}
+
+.angleDiff{
+    font-size: 16px;
+}
